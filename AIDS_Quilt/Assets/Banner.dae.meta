@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: 8729aaa3c64e040a28e5558d83850fd6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Banner_4x18-5
+    100004: Banner_5x18-2
+    100006: Banner_6x18-1
+    100008: Banner_6x18-4
+    100010: Banners_-_Large__generic_to_scale
+    100012: Fiskex_Genta_Light
+    100014: Fiskex_Genta_Light 1
+    100016: Fiskex_Genta_Light 10
+    100018: Fiskex_Genta_Light 11
+    100020: Fiskex_Genta_Light 2
+    100022: Fiskex_Genta_Light 3
+    100024: Fiskex_Genta_Light 4
+    100026: Fiskex_Genta_Light 5
+    100028: Fiskex_Genta_Light 6
+    100030: Fiskex_Genta_Light 7
+    100032: Fiskex_Genta_Light 8
+    100034: Fiskex_Genta_Light 9
+    100036: Fiskex_World_Pay_Banner_3
+    100038: group_0
+    100040: group_1
+    100042: group_1 1
+    100044: group_1 10
+    100046: group_1 11
+    100048: group_1 2
+    100050: group_1 3
+    100052: group_1 4
+    100054: group_1 5
+    100056: group_1 6
+    100058: group_1 7
+    100060: group_1 8
+    100062: group_1 9
+    100064: group_2
+    100066: group_2 1
+    100068: group_2 10
+    100070: group_2 11
+    100072: group_2 2
+    100074: group_2 3
+    100076: group_2 4
+    100078: group_2 5
+    100080: group_2 6
+    100082: group_2 7
+    100084: group_2 8
+    100086: group_2 9
+    100088: ID105
+    100090: ID105 1
+    100092: ID105 10
+    100094: ID105 11
+    100096: ID105 2
+    100098: ID105 3
+    100100: ID105 4
+    100102: ID105 5
+    100104: ID105 6
+    100106: ID105 7
+    100108: ID105 8
+    100110: ID105 9
+    100112: ID111
+    100114: ID111 1
+    100116: ID111 10
+    100118: ID111 11
+    100120: ID111 2
+    100122: ID111 3
+    100124: ID111 4
+    100126: ID111 5
+    100128: ID111 6
+    100130: ID111 7
+    100132: ID111 8
+    100134: ID111 9
+    100136: ID117
+    100138: ID117 1
+    100140: ID117 10
+    100142: ID117 11
+    100144: ID117 2
+    100146: ID117 3
+    100148: ID117 4
+    100150: ID117 5
+    100152: ID117 6
+    100154: ID117 7
+    100156: ID117 8
+    100158: ID117 9
+    100160: ID123
+    100162: ID123 1
+    100164: ID123 10
+    100166: ID123 11
+    100168: ID123 2
+    100170: ID123 3
+    100172: ID123 4
+    100174: ID123 5
+    100176: ID123 6
+    100178: ID123 7
+    100180: ID123 8
+    100182: ID123 9
+    100184: ID129
+    100186: ID129 1
+    100188: ID129 10
+    100190: ID129 11
+    100192: ID129 2
+    100194: ID129 3
+    100196: ID129 4
+    100198: ID129 5
+    100200: ID129 6
+    100202: ID129 7
+    100204: ID129 8
+    100206: ID129 9
+    100208: ID135
+    100210: ID135 1
+    100212: ID135 10
+    100214: ID135 11
+    100216: ID135 2
+    100218: ID135 3
+    100220: ID135 4
+    100222: ID135 5
+    100224: ID135 6
+    100226: ID135 7
+    100228: ID135 8
+    100230: ID135 9
+    100232: ID141
+    100234: ID141 1
+    100236: ID141 10
+    100238: ID141 11
+    100240: ID141 2
+    100242: ID141 3
+    100244: ID141 4
+    100246: ID141 5
+    100248: ID141 6
+    100250: ID141 7
+    100252: ID141 8
+    100254: ID141 9
+    100256: ID145
+    100258: ID145 1
+    100260: ID145 10
+    100262: ID145 11
+    100264: ID145 2
+    100266: ID145 3
+    100268: ID145 4
+    100270: ID145 5
+    100272: ID145 6
+    100274: ID145 7
+    100276: ID145 8
+    100278: ID145 9
+    100280: ID168
+    100282: ID181
+    100284: ID75
+    100286: ID75 1
+    100288: ID75 10
+    100290: ID75 11
+    100292: ID75 2
+    100294: ID75 3
+    100296: ID75 4
+    100298: ID75 5
+    100300: ID75 6
+    100302: ID75 7
+    100304: ID75 8
+    100306: ID75 9
+    100308: ID81
+    100310: ID81 1
+    100312: ID81 10
+    100314: ID81 11
+    100316: ID81 2
+    100318: ID81 3
+    100320: ID81 4
+    100322: ID81 5
+    100324: ID81 6
+    100326: ID81 7
+    100328: ID81 8
+    100330: ID81 9
+    100332: ID87
+    100334: ID87 1
+    100336: ID87 10
+    100338: ID87 11
+    100340: ID87 2
+    100342: ID87 3
+    100344: ID87 4
+    100346: ID87 5
+    100348: ID87 6
+    100350: ID87 7
+    100352: ID87 8
+    100354: ID87 9
+    100356: ID93
+    100358: ID93 1
+    100360: ID93 10
+    100362: ID93 11
+    100364: ID93 2
+    100366: ID93 3
+    100368: ID93 4
+    100370: ID93 5
+    100372: ID93 6
+    100374: ID93 7
+    100376: ID93 8
+    100378: ID93 9
+    100380: ID99
+    100382: ID99 1
+    100384: ID99 10
+    100386: ID99 11
+    100388: ID99 2
+    100390: ID99 3
+    100392: ID99 4
+    100394: ID99 5
+    100396: ID99 6
+    100398: ID99 7
+    100400: ID99 8
+    100402: ID99 9
+    100404: instance_0
+    100406: instance_1
+    100408: instance_10
+    100410: instance_11
+    100412: instance_12
+    100414: instance_13
+    100416: instance_14
+    100418: instance_15
+    100420: instance_16
+    100422: instance_17
+    100424: instance_18
+    100426: instance_2
+    100428: instance_3
+    100430: instance_4
+    100432: instance_5
+    100434: instance_6
+    100436: instance_7
+    100438: instance_7 1
+    100440: instance_7 10
+    100442: instance_7 11
+    100444: instance_7 2
+    100446: instance_7 3
+    100448: instance_7 4
+    100450: instance_7 5
+    100452: instance_7 6
+    100454: instance_7 7
+    100456: instance_7 8
+    100458: instance_7 9
+    100460: instance_8
+    100462: instance_9
+    100464: IR_lamp_round_glow_1025W_49.21x10.71.skp
+    100466: IR_lamp_round_glow_1025W_49.21x10.71.skp 1
+    100468: IR_lamp_round_glow_1025W_49.21x10.71.skp 10
+    100470: IR_lamp_round_glow_1025W_49.21x10.71.skp 11
+    100472: IR_lamp_round_glow_1025W_49.21x10.71.skp 2
+    100474: IR_lamp_round_glow_1025W_49.21x10.71.skp 3
+    100476: IR_lamp_round_glow_1025W_49.21x10.71.skp 4
+    100478: IR_lamp_round_glow_1025W_49.21x10.71.skp 5
+    100480: IR_lamp_round_glow_1025W_49.21x10.71.skp 6
+    100482: IR_lamp_round_glow_1025W_49.21x10.71.skp 7
+    100484: IR_lamp_round_glow_1025W_49.21x10.71.skp 8
+    100486: IR_lamp_round_glow_1025W_49.21x10.71.skp 9
+    400000: //RootNode
+    400002: Banner_4x18-5
+    400004: Banner_5x18-2
+    400006: Banner_6x18-1
+    400008: Banner_6x18-4
+    400010: Banners_-_Large__generic_to_scale
+    400012: Fiskex_Genta_Light
+    400014: Fiskex_Genta_Light 1
+    400016: Fiskex_Genta_Light 10
+    400018: Fiskex_Genta_Light 11
+    400020: Fiskex_Genta_Light 2
+    400022: Fiskex_Genta_Light 3
+    400024: Fiskex_Genta_Light 4
+    400026: Fiskex_Genta_Light 5
+    400028: Fiskex_Genta_Light 6
+    400030: Fiskex_Genta_Light 7
+    400032: Fiskex_Genta_Light 8
+    400034: Fiskex_Genta_Light 9
+    400036: Fiskex_World_Pay_Banner_3
+    400038: group_0
+    400040: group_1
+    400042: group_1 1
+    400044: group_1 10
+    400046: group_1 11
+    400048: group_1 2
+    400050: group_1 3
+    400052: group_1 4
+    400054: group_1 5
+    400056: group_1 6
+    400058: group_1 7
+    400060: group_1 8
+    400062: group_1 9
+    400064: group_2
+    400066: group_2 1
+    400068: group_2 10
+    400070: group_2 11
+    400072: group_2 2
+    400074: group_2 3
+    400076: group_2 4
+    400078: group_2 5
+    400080: group_2 6
+    400082: group_2 7
+    400084: group_2 8
+    400086: group_2 9
+    400088: ID105
+    400090: ID105 1
+    400092: ID105 10
+    400094: ID105 11
+    400096: ID105 2
+    400098: ID105 3
+    400100: ID105 4
+    400102: ID105 5
+    400104: ID105 6
+    400106: ID105 7
+    400108: ID105 8
+    400110: ID105 9
+    400112: ID111
+    400114: ID111 1
+    400116: ID111 10
+    400118: ID111 11
+    400120: ID111 2
+    400122: ID111 3
+    400124: ID111 4
+    400126: ID111 5
+    400128: ID111 6
+    400130: ID111 7
+    400132: ID111 8
+    400134: ID111 9
+    400136: ID117
+    400138: ID117 1
+    400140: ID117 10
+    400142: ID117 11
+    400144: ID117 2
+    400146: ID117 3
+    400148: ID117 4
+    400150: ID117 5
+    400152: ID117 6
+    400154: ID117 7
+    400156: ID117 8
+    400158: ID117 9
+    400160: ID123
+    400162: ID123 1
+    400164: ID123 10
+    400166: ID123 11
+    400168: ID123 2
+    400170: ID123 3
+    400172: ID123 4
+    400174: ID123 5
+    400176: ID123 6
+    400178: ID123 7
+    400180: ID123 8
+    400182: ID123 9
+    400184: ID129
+    400186: ID129 1
+    400188: ID129 10
+    400190: ID129 11
+    400192: ID129 2
+    400194: ID129 3
+    400196: ID129 4
+    400198: ID129 5
+    400200: ID129 6
+    400202: ID129 7
+    400204: ID129 8
+    400206: ID129 9
+    400208: ID135
+    400210: ID135 1
+    400212: ID135 10
+    400214: ID135 11
+    400216: ID135 2
+    400218: ID135 3
+    400220: ID135 4
+    400222: ID135 5
+    400224: ID135 6
+    400226: ID135 7
+    400228: ID135 8
+    400230: ID135 9
+    400232: ID141
+    400234: ID141 1
+    400236: ID141 10
+    400238: ID141 11
+    400240: ID141 2
+    400242: ID141 3
+    400244: ID141 4
+    400246: ID141 5
+    400248: ID141 6
+    400250: ID141 7
+    400252: ID141 8
+    400254: ID141 9
+    400256: ID145
+    400258: ID145 1
+    400260: ID145 10
+    400262: ID145 11
+    400264: ID145 2
+    400266: ID145 3
+    400268: ID145 4
+    400270: ID145 5
+    400272: ID145 6
+    400274: ID145 7
+    400276: ID145 8
+    400278: ID145 9
+    400280: ID168
+    400282: ID181
+    400284: ID75
+    400286: ID75 1
+    400288: ID75 10
+    400290: ID75 11
+    400292: ID75 2
+    400294: ID75 3
+    400296: ID75 4
+    400298: ID75 5
+    400300: ID75 6
+    400302: ID75 7
+    400304: ID75 8
+    400306: ID75 9
+    400308: ID81
+    400310: ID81 1
+    400312: ID81 10
+    400314: ID81 11
+    400316: ID81 2
+    400318: ID81 3
+    400320: ID81 4
+    400322: ID81 5
+    400324: ID81 6
+    400326: ID81 7
+    400328: ID81 8
+    400330: ID81 9
+    400332: ID87
+    400334: ID87 1
+    400336: ID87 10
+    400338: ID87 11
+    400340: ID87 2
+    400342: ID87 3
+    400344: ID87 4
+    400346: ID87 5
+    400348: ID87 6
+    400350: ID87 7
+    400352: ID87 8
+    400354: ID87 9
+    400356: ID93
+    400358: ID93 1
+    400360: ID93 10
+    400362: ID93 11
+    400364: ID93 2
+    400366: ID93 3
+    400368: ID93 4
+    400370: ID93 5
+    400372: ID93 6
+    400374: ID93 7
+    400376: ID93 8
+    400378: ID93 9
+    400380: ID99
+    400382: ID99 1
+    400384: ID99 10
+    400386: ID99 11
+    400388: ID99 2
+    400390: ID99 3
+    400392: ID99 4
+    400394: ID99 5
+    400396: ID99 6
+    400398: ID99 7
+    400400: ID99 8
+    400402: ID99 9
+    400404: instance_0
+    400406: instance_1
+    400408: instance_10
+    400410: instance_11
+    400412: instance_12
+    400414: instance_13
+    400416: instance_14
+    400418: instance_15
+    400420: instance_16
+    400422: instance_17
+    400424: instance_18
+    400426: instance_2
+    400428: instance_3
+    400430: instance_4
+    400432: instance_5
+    400434: instance_6
+    400436: instance_7
+    400438: instance_7 1
+    400440: instance_7 10
+    400442: instance_7 11
+    400444: instance_7 2
+    400446: instance_7 3
+    400448: instance_7 4
+    400450: instance_7 5
+    400452: instance_7 6
+    400454: instance_7 7
+    400456: instance_7 8
+    400458: instance_7 9
+    400460: instance_8
+    400462: instance_9
+    400464: IR_lamp_round_glow_1025W_49.21x10.71.skp
+    400466: IR_lamp_round_glow_1025W_49.21x10.71.skp 1
+    400468: IR_lamp_round_glow_1025W_49.21x10.71.skp 10
+    400470: IR_lamp_round_glow_1025W_49.21x10.71.skp 11
+    400472: IR_lamp_round_glow_1025W_49.21x10.71.skp 2
+    400474: IR_lamp_round_glow_1025W_49.21x10.71.skp 3
+    400476: IR_lamp_round_glow_1025W_49.21x10.71.skp 4
+    400478: IR_lamp_round_glow_1025W_49.21x10.71.skp 5
+    400480: IR_lamp_round_glow_1025W_49.21x10.71.skp 6
+    400482: IR_lamp_round_glow_1025W_49.21x10.71.skp 7
+    400484: IR_lamp_round_glow_1025W_49.21x10.71.skp 8
+    400486: IR_lamp_round_glow_1025W_49.21x10.71.skp 9
+    2300000: Banner_4x18-5
+    2300002: Banner_5x18-2
+    2300004: Banner_6x18-1
+    2300006: Banner_6x18-4
+    2300008: Fiskex_Genta_Light
+    2300010: Fiskex_Genta_Light 1
+    2300012: Fiskex_Genta_Light 10
+    2300014: Fiskex_Genta_Light 11
+    2300016: Fiskex_Genta_Light 2
+    2300018: Fiskex_Genta_Light 3
+    2300020: Fiskex_Genta_Light 4
+    2300022: Fiskex_Genta_Light 5
+    2300024: Fiskex_Genta_Light 6
+    2300026: Fiskex_Genta_Light 7
+    2300028: Fiskex_Genta_Light 8
+    2300030: Fiskex_Genta_Light 9
+    2300032: group_0
+    2300034: group_1
+    2300036: group_1 1
+    2300038: group_1 10
+    2300040: group_1 11
+    2300042: group_1 2
+    2300044: group_1 3
+    2300046: group_1 4
+    2300048: group_1 5
+    2300050: group_1 6
+    2300052: group_1 7
+    2300054: group_1 8
+    2300056: group_1 9
+    2300058: group_2
+    2300060: group_2 1
+    2300062: group_2 10
+    2300064: group_2 11
+    2300066: group_2 2
+    2300068: group_2 3
+    2300070: group_2 4
+    2300072: group_2 5
+    2300074: group_2 6
+    2300076: group_2 7
+    2300078: group_2 8
+    2300080: group_2 9
+    2300082: ID105
+    2300084: ID105 1
+    2300086: ID105 10
+    2300088: ID105 11
+    2300090: ID105 2
+    2300092: ID105 3
+    2300094: ID105 4
+    2300096: ID105 5
+    2300098: ID105 6
+    2300100: ID105 7
+    2300102: ID105 8
+    2300104: ID105 9
+    2300106: ID111
+    2300108: ID111 1
+    2300110: ID111 10
+    2300112: ID111 11
+    2300114: ID111 2
+    2300116: ID111 3
+    2300118: ID111 4
+    2300120: ID111 5
+    2300122: ID111 6
+    2300124: ID111 7
+    2300126: ID111 8
+    2300128: ID111 9
+    2300130: ID117
+    2300132: ID117 1
+    2300134: ID117 10
+    2300136: ID117 11
+    2300138: ID117 2
+    2300140: ID117 3
+    2300142: ID117 4
+    2300144: ID117 5
+    2300146: ID117 6
+    2300148: ID117 7
+    2300150: ID117 8
+    2300152: ID117 9
+    2300154: ID123
+    2300156: ID123 1
+    2300158: ID123 10
+    2300160: ID123 11
+    2300162: ID123 2
+    2300164: ID123 3
+    2300166: ID123 4
+    2300168: ID123 5
+    2300170: ID123 6
+    2300172: ID123 7
+    2300174: ID123 8
+    2300176: ID123 9
+    2300178: ID129
+    2300180: ID129 1
+    2300182: ID129 10
+    2300184: ID129 11
+    2300186: ID129 2
+    2300188: ID129 3
+    2300190: ID129 4
+    2300192: ID129 5
+    2300194: ID129 6
+    2300196: ID129 7
+    2300198: ID129 8
+    2300200: ID129 9
+    2300202: ID168
+    2300204: ID181
+    2300206: ID75
+    2300208: ID75 1
+    2300210: ID75 10
+    2300212: ID75 11
+    2300214: ID75 2
+    2300216: ID75 3
+    2300218: ID75 4
+    2300220: ID75 5
+    2300222: ID75 6
+    2300224: ID75 7
+    2300226: ID75 8
+    2300228: ID75 9
+    2300230: ID81
+    2300232: ID81 1
+    2300234: ID81 10
+    2300236: ID81 11
+    2300238: ID81 2
+    2300240: ID81 3
+    2300242: ID81 4
+    2300244: ID81 5
+    2300246: ID81 6
+    2300248: ID81 7
+    2300250: ID81 8
+    2300252: ID81 9
+    2300254: ID87
+    2300256: ID87 1
+    2300258: ID87 10
+    2300260: ID87 11
+    2300262: ID87 2
+    2300264: ID87 3
+    2300266: ID87 4
+    2300268: ID87 5
+    2300270: ID87 6
+    2300272: ID87 7
+    2300274: ID87 8
+    2300276: ID87 9
+    2300278: ID93
+    2300280: ID93 1
+    2300282: ID93 10
+    2300284: ID93 11
+    2300286: ID93 2
+    2300288: ID93 3
+    2300290: ID93 4
+    2300292: ID93 5
+    2300294: ID93 6
+    2300296: ID93 7
+    2300298: ID93 8
+    2300300: ID93 9
+    2300302: ID99
+    2300304: ID99 1
+    2300306: ID99 10
+    2300308: ID99 11
+    2300310: ID99 2
+    2300312: ID99 3
+    2300314: ID99 4
+    2300316: ID99 5
+    2300318: ID99 6
+    2300320: ID99 7
+    2300322: ID99 8
+    2300324: ID99 9
+    3300000: Banner_4x18-5
+    3300002: Banner_5x18-2
+    3300004: Banner_6x18-1
+    3300006: Banner_6x18-4
+    3300008: Fiskex_Genta_Light
+    3300010: Fiskex_Genta_Light 1
+    3300012: Fiskex_Genta_Light 10
+    3300014: Fiskex_Genta_Light 11
+    3300016: Fiskex_Genta_Light 2
+    3300018: Fiskex_Genta_Light 3
+    3300020: Fiskex_Genta_Light 4
+    3300022: Fiskex_Genta_Light 5
+    3300024: Fiskex_Genta_Light 6
+    3300026: Fiskex_Genta_Light 7
+    3300028: Fiskex_Genta_Light 8
+    3300030: Fiskex_Genta_Light 9
+    3300032: group_0
+    3300034: group_1
+    3300036: group_1 1
+    3300038: group_1 10
+    3300040: group_1 11
+    3300042: group_1 2
+    3300044: group_1 3
+    3300046: group_1 4
+    3300048: group_1 5
+    3300050: group_1 6
+    3300052: group_1 7
+    3300054: group_1 8
+    3300056: group_1 9
+    3300058: group_2
+    3300060: group_2 1
+    3300062: group_2 10
+    3300064: group_2 11
+    3300066: group_2 2
+    3300068: group_2 3
+    3300070: group_2 4
+    3300072: group_2 5
+    3300074: group_2 6
+    3300076: group_2 7
+    3300078: group_2 8
+    3300080: group_2 9
+    3300082: ID105
+    3300084: ID105 1
+    3300086: ID105 10
+    3300088: ID105 11
+    3300090: ID105 2
+    3300092: ID105 3
+    3300094: ID105 4
+    3300096: ID105 5
+    3300098: ID105 6
+    3300100: ID105 7
+    3300102: ID105 8
+    3300104: ID105 9
+    3300106: ID111
+    3300108: ID111 1
+    3300110: ID111 10
+    3300112: ID111 11
+    3300114: ID111 2
+    3300116: ID111 3
+    3300118: ID111 4
+    3300120: ID111 5
+    3300122: ID111 6
+    3300124: ID111 7
+    3300126: ID111 8
+    3300128: ID111 9
+    3300130: ID117
+    3300132: ID117 1
+    3300134: ID117 10
+    3300136: ID117 11
+    3300138: ID117 2
+    3300140: ID117 3
+    3300142: ID117 4
+    3300144: ID117 5
+    3300146: ID117 6
+    3300148: ID117 7
+    3300150: ID117 8
+    3300152: ID117 9
+    3300154: ID123
+    3300156: ID123 1
+    3300158: ID123 10
+    3300160: ID123 11
+    3300162: ID123 2
+    3300164: ID123 3
+    3300166: ID123 4
+    3300168: ID123 5
+    3300170: ID123 6
+    3300172: ID123 7
+    3300174: ID123 8
+    3300176: ID123 9
+    3300178: ID129
+    3300180: ID129 1
+    3300182: ID129 10
+    3300184: ID129 11
+    3300186: ID129 2
+    3300188: ID129 3
+    3300190: ID129 4
+    3300192: ID129 5
+    3300194: ID129 6
+    3300196: ID129 7
+    3300198: ID129 8
+    3300200: ID129 9
+    3300202: ID168
+    3300204: ID181
+    3300206: ID75
+    3300208: ID75 1
+    3300210: ID75 10
+    3300212: ID75 11
+    3300214: ID75 2
+    3300216: ID75 3
+    3300218: ID75 4
+    3300220: ID75 5
+    3300222: ID75 6
+    3300224: ID75 7
+    3300226: ID75 8
+    3300228: ID75 9
+    3300230: ID81
+    3300232: ID81 1
+    3300234: ID81 10
+    3300236: ID81 11
+    3300238: ID81 2
+    3300240: ID81 3
+    3300242: ID81 4
+    3300244: ID81 5
+    3300246: ID81 6
+    3300248: ID81 7
+    3300250: ID81 8
+    3300252: ID81 9
+    3300254: ID87
+    3300256: ID87 1
+    3300258: ID87 10
+    3300260: ID87 11
+    3300262: ID87 2
+    3300264: ID87 3
+    3300266: ID87 4
+    3300268: ID87 5
+    3300270: ID87 6
+    3300272: ID87 7
+    3300274: ID87 8
+    3300276: ID87 9
+    3300278: ID93
+    3300280: ID93 1
+    3300282: ID93 10
+    3300284: ID93 11
+    3300286: ID93 2
+    3300288: ID93 3
+    3300290: ID93 4
+    3300292: ID93 5
+    3300294: ID93 6
+    3300296: ID93 7
+    3300298: ID93 8
+    3300300: ID93 9
+    3300302: ID99
+    3300304: ID99 1
+    3300306: ID99 10
+    3300308: ID99 11
+    3300310: ID99 2
+    3300312: ID99 3
+    3300314: ID99 4
+    3300316: ID99 5
+    3300318: ID99 6
+    3300320: ID99 7
+    3300322: ID99 8
+    3300324: ID99 9
+    4300000: Banner_4x18-5
+    4300002: Banner_6x18-4
+    4300004: Banner_6x18-1
+    4300006: Banner_5x18-2
+    4300008: group_0
+    4300010: ID168
+    4300012: ID181
+    4300014: Fiskex_Genta_Light
+    4300016: ID75
+    4300018: ID81
+    4300020: ID87
+    4300022: ID93
+    4300024: ID99
+    4300026: ID105
+    4300028: ID111
+    4300030: ID117
+    4300032: ID123
+    4300034: ID129
+    4300036: group_1
+    4300038: group_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
